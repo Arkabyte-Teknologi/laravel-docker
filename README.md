@@ -91,3 +91,6 @@ make seed
 ```
 make dacapo
 ```
+
+## License
+All code in this repository is licensed under the terms of the `MIT License`. For further information please refer to the `LICENSE` file.
