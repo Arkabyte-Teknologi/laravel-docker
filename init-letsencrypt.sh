@@ -7,7 +7,7 @@ fi
 
 domains=(inf.org www.inf.org)
 rsa_key_size=4096
-data_path="./infra/certbot"
+data_path="./infra/docker/certbot"
 email="annurdien.dev@gmail.com" # Adding a valid address is strongly recommended
 staging=1 # Set to 1 if you're testing your setup to avoid hitting request limits
 
